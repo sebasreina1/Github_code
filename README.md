@@ -1,4 +1,6 @@
-#  🥷🏻 Jhon Reina
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+
+#  🥷🏻 Jhon Sebastian Reina
 **`Digital Craftsman 👨🏻‍💻 (Junior Dev/Creator/Salesforce Junior Dev)`**
 
 I'm a bilingual (English/Spanish) junior developer currently pursuing a bachelor's degree in Computer Programming at Georgian College. I bring expertise in Salesforce Admin and growing knowledge in Salesforce Development, alongside skills in JavaScript, HTML, CSS, and Python.  
