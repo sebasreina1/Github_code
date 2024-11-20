@@ -6,8 +6,7 @@ I'm a bilingual (English/Spanish) junior developer currently pursuing a bachelor
 With additional experience in Java, SQL, Azure, JSON, and React.js, I’ve worked on projects like a custom database for a local store and a replica of the Apple website. I’m passionate about solving real-world problems and continuously advancing my skills to make a meaningful impact in the tech world.
 
 <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://linkedin.com/in/priyankeshraj"><img src="https://img.shields.io/badge/-Sebasreina1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonsebastian1/"></a>
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
