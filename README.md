@@ -6,13 +6,13 @@ I'm a bilingual (English/Spanish) junior developer currently pursuing a bachelor
 With additional experience in Java, SQL, Azure, JSON, and React.js, I’ve worked on projects like a custom database for a local store and a replica of the Apple website. I’m passionate about solving real-world problems and continuously advancing my skills to make a meaningful impact in the tech world.
 
 <p align="left">
-      <a href="https://linkedin.com/in/priyankeshraj"><img src="https://img.shields.io/badge/-Sebasreina1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonsebastian1/"></a>
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://www.linkedin.com/in/jhonsebastian1/"><img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="Sebasreina0814@gmail.com">
+         <img src="https://custom-icon-badges.demolab.com/badge/-Mail-red?style=for-the-badge&logo=mail1&logoColor=white"/></a> 
+      <a href="https://github.com/sebasreina1?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sebasreina1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/sebasreina1?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sebasreina1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 
@@ -45,7 +45,7 @@ With additional experience in Java, SQL, Azure, JSON, and React.js, I’ve worke
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebasreina1&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
